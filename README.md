@@ -32,13 +32,13 @@ This file is waiting for editing.
 <hr>
 
 <pre>
-💻 I am a master student at UC-Irvine.
-📚 I have a Bachelor's in Data Science and Big Data Technology from Tongji University, Shanghai, China.
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 I am a master's student at the University of California, Irvine, expecting to graduate in 2024
+📚 I have a Bachelor's in Data Science and Big Data Technology from Tongji University, Shanghai, China
+📝 I have a strong interest in Cloud Development and Data Science
 🌱 Learning about Cloud Computing stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Java, Python, C++
 🚩 Interested in Full Stack 
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
